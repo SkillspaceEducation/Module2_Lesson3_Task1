@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba7a9145-8c10-4047-ab88-bbfcb1b9c4cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2_Lesson3_Task1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ba7a9145-8c10-4047-ab88-bbfcb1b9c4cb" name="Changes" comment="Введите с клавиатуры строку. Найти в строке не только запятые, но и другие знаки препинания.&#10;Подсчитать общее их количество.">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680253931081</updated>
     </task>
+    <task id="LOCAL-00001" summary="Введите с клавиатуры строку. Найти в строке не только запятые, но и другие знаки препинания.&#10;Подсчитать общее их количество.">
+      <created>1680256289951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680256289951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Введите с клавиатуры строку. Найти в строке не только запятые, но и другие знаки препинания.&#10;Подсчитать общее их количество." />
+    <option name="LAST_COMMIT_MESSAGE" value="Введите с клавиатуры строку. Найти в строке не только запятые, но и другие знаки препинания.&#10;Подсчитать общее их количество." />
   </component>
 </project>
